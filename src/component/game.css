@@ -1,0 +1,118 @@
+.box{
+    font-size: 23px;
+    
+    text-align: center;
+    
+}
+.box:hover{
+    background-color: rgb(210, 209, 211);
+    cursor: pointer;
+}
+.maindiv{
+   display: grid;
+     
+}
+.box1 {
+    border-right: 2px solid #b72a2a;
+    border-bottom: 2px solid #b72a2a;
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+/* background-color: rgb(245, 30, 30); */
+}
+
+.box2 {
+    border-right: 2px solid #2437b5;
+    border-bottom: 2px solid #2437b5;
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(80, 30, 245); */
+
+}
+
+.box3 {
+    border-right: 2px solid rgb(25, 155, 36);
+
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(30, 245, 84); */
+}
+
+.box4 {
+    position: relative;
+    top: -72px;
+    left: 69px;
+    border-right: 2px solid #e4cc16;
+    border-top: 2px solid#e4cc16;
+
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(245, 238, 30); */
+
+}
+
+.box5 {
+    position: relative;
+    top: -142px;
+    left: 138px;
+
+    border-top: 2px solid#1cc1b8;
+
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(30, 231, 245); */
+
+}
+
+.box6 {
+    position: relative;
+    top: -281px;
+    left: 69px;
+
+    border-top: 2px solid#dc1e1e;
+    
+    border-right: 2px solid#dc1e1e;
+
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(98, 9, 9); */
+}.box7 {
+    position: relative;
+    top: -351px;
+    left: 137px;
+
+    border-top: 2px solid#d30bde;
+
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(245, 30, 227); */
+
+}.box8 {
+    position: relative;
+    top: -491px;
+    left: 137px;
+
+    border-left: 2px solid#300b32;
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(96, 92, 95); */
+
+}.box9 {
+    position: relative;
+    top: -561px;
+    left: 67px;
+
+     
+    width: 70px;
+    height: 70px;
+    margin-left: 35px;
+    /* background-color: rgb(96, 92, 95); */
+
+}
